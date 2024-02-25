@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**lucianosrp/lucianosrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python developer** with a passion for data and aviation 📈✈️.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming languages: Python, Rust, SQL
+* Frameworks/Libraries: pandas,numpy,SQLAlchemy, FastApi and more ! ⚡
+
+## Some of my code
+- [Airport Compass 🧭](https://github.com/lucianosrp/airport-compass)
+
+
+## Open Source Contributions
+
+* [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
+
+
+## Learning Journey
+
+* Currently learning/interested in exploring: Rust, LLMs, other backend frameworks
+
+## Contact
+
+* Email: scarpulla53@gmail.com
+* Website/Portfolio: lucianosrp.github.io
+* LinkedIn: https://www.linkedin.com/in/luciano-scarpulla
+

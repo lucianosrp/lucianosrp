@@ -13,6 +13,7 @@
 ## Open Source Contributions
 
 * [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
+* [Aquarel](https://github.com/lgienapp/aquarel)
 
 
 ## Learning Journey

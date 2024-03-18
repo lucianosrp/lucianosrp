@@ -14,6 +14,7 @@
 
 * [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
 * [Aquarel](https://github.com/lgienapp/aquarel)
+* [Prefect Recipes](https://github.com/PrefectHQ/prefect-recipes)
 
 
 ## Learning Journey

@@ -8,6 +8,8 @@
 
 ## Some of my code
 - [Airport Compass 🧭](https://github.com/lucianosrp/airport-compass)
+- [Spotiparser 🎵](https://github.com/lucianosrp/spotiparser)
+- [Immich-save 📷](https://github.com/lucianosrp/immich-save)
 
 
 ## Open Source Contributions

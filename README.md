@@ -15,6 +15,7 @@
 ## Open Source Contributions
 
 * [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
+* [Firebolt SQLAlchemy](https://github.com/firebolt-db/firebolt-sqlalchemy)
 * [Aquarel](https://github.com/lgienapp/aquarel)
 * [Prefect Recipes](https://github.com/PrefectHQ/prefect-recipes)
 * [Cron-converter](https://github.com/Sonic0/cron-converter)

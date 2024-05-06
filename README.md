@@ -28,6 +28,6 @@
 ## Contact
 
 * Email: scarpulla53@gmail.com
-* Website/Portfolio: https://www.lucianosrp.github.io
+* Website/Portfolio: [https://www.lucianosrp.github.io](https://lucianosrp.github.io/)
 * LinkedIn: https://www.linkedin.com/in/luciano-scarpulla
 

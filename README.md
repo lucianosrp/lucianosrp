@@ -14,12 +14,12 @@
 - [mv-git 🧰](https://github.com/lucianosrp/mv-git)
 
 
-## Open Source Contributions
+## Some of my Contributions
 
+* [Narwhals](https://github.com/narwhals-dev/narwhals)
 * [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
 * [Firebolt SQLAlchemy](https://github.com/firebolt-db/firebolt-sqlalchemy)
 * [Aquarel](https://github.com/lgienapp/aquarel)
-* [Prefect Recipes](https://github.com/PrefectHQ/prefect-recipes)
 * [Cron-converter](https://github.com/Sonic0/cron-converter)
 
 

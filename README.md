@@ -29,6 +29,4 @@
 ## Learning Journey
 
 * Currently learning/interested in exploring: Rust, LLMs, other backend frameworks
-----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosrp&langs_count=8&theme=ayu-mirage&card_width=200)

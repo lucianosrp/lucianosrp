@@ -17,16 +17,6 @@
 - [dapter](https://github.com/lucianosrp/dapter) - Tool to adapt multiple dataframes to one unique format
 - [Metar-pars](https://github.com/lucianosrp/metar-pars) - METAR parser written in Rust
 
-## Some of my Contributions
-
-* [Narwhals](https://github.com/narwhals-dev/narwhals)
-* [Firebolt Python SDK](https://github.com/firebolt-db/firebolt-python-sdk)
-* [Firebolt SQLAlchemy](https://github.com/firebolt-db/firebolt-sqlalchemy)
-* [Aquarel](https://github.com/lgienapp/aquarel)
-* [Cron-converter](https://github.com/Sonic0/cron-converter)
-
-
 ## Learning Journey
 
 * Currently learning/interested in exploring: Rust, LLMs, other backend frameworks
-

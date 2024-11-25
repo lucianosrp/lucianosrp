@@ -15,7 +15,8 @@
 ## Some of my code
 - [Airport Compass 🧭](https://github.com/lucianosrp/airport-compass) - Airports' traffic visualization
 - [dapter](https://github.com/lucianosrp/dapter) - Tool to adapt multiple dataframes to one unique format
-- [Metar-pars](https://github.com/lucianosrp/metar-pars) - METAR parser written in Rust
+- [Metar-pars](https://github.com/lucianosrp/metar-pars) - METAR parser written in Rust *WIP*
+- [rye-uv](https://github.com/lucianosrp/rye-uv) - Simple CLI tool to migrate from Rye to Uv
 
 ## Learning Journey
 

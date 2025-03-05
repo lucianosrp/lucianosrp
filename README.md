@@ -2,6 +2,7 @@
 ## 👨‍💻 Python Developer | Data Enthusiast | Aviation Geek 📈✈️
 
 Building useful tools for data analysis and visualization. I enjoy working with complex datasets and creating software that makes data more accessible and meaningful.
+Here on my free time!
 
 ## 🛠️ Skills
 

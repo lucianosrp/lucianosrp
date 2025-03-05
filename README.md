@@ -1,23 +1,41 @@
 
-**Python developer** with a passion for data and aviation 📈✈️.
+## 👨‍💻 Python Developer | Data Enthusiast | Aviation Geek 📈✈️
 
-## Contact
+Building useful tools for data analysis and visualization. I enjoy working with complex datasets and creating software that makes data more accessible and meaningful.
 
-* Email: scarpulla53@gmail.com
-* Website/Portfolio: [https://www.lucianosrp.github.io](https://lucianosrp.github.io/)
-* LinkedIn: https://www.linkedin.com/in/luciano-scarpulla
+## 🛠️ Skills
 
-## Skills
+**Languages:**
+- Python
+- SQL 
+- Rust 
 
-* Programming languages: Python, Rust, SQL
-* Frameworks/Libraries: pandas, numpy, SQLAlchemy, FastApi and more ! ⚡
+**Data & Backend Technologies:**
+- Data Analysis & Visualization: polars, pandas, numpy, matplotlib, seaborn
+- API Development: FastAPI, Flask
+- Database: SQLAlchemy, Alembic, PostgreSQL
+- DevOps: Docker, CI/CD, Git
 
-## Some of my code
-- [Airport Compass 🧭](https://github.com/lucianosrp/airport-compass) - Airports' traffic visualization
-- [dapter](https://github.com/lucianosrp/dapter) - Tool to adapt multiple dataframes to one unique format
-- [Metar-pars](https://github.com/lucianosrp/metar-pars) - METAR parser written in Rust *WIP*
-- [rye-uv](https://github.com/lucianosrp/rye-uv) - Simple CLI tool to migrate from Rye to Uv
+## 🚀 Projects
 
-## Learning Journey
+- [**Airport Compass** 🧭](https://github.com/lucianosrp/airport-compass) - Interactive visualization platform for analyzing global airport traffic patterns and trends
+  
+- [**reflex-plot**](https://github.com/lucianosrp/reflex-plot) - Data visualization library designed for seamless integration with Reflex web applications
+  
+- [**Metar-pars**](https://github.com/lucianosrp/metar-pars) - High-performance METAR weather report parser written in Rust *(Work in Progress)*
+  
+- [**rye-uv**](https://github.com/lucianosrp/rye-uv) - CLI utility to seamlessly migrate Python projects from Rye to Uv package management
 
-* Currently learning/interested in exploring: Rust, LLMs, other backend frameworks
+## 🌱 Current Focus
+
+- Deepening my knowledge of Rust for performance-critical applications
+- Exploring LLM applications in data analysis workflows
+- Learning modern backend frameworks and architecture patterns
+
+## 📫 Let's Connect
+
+- 📧 Email: [scarpulla53@gmail.com](mailto:scarpulla53@gmail.com)
+- 🌐 Portfolio: [lucianosrp.github.io](https://lucianosrp.github.io/)
+- 💼 LinkedIn: [Luciano Scarpulla](https://www.linkedin.com/in/luciano-scarpulla)
+- 🐙 GitHub: [@lucianosrp](https://github.com/lucianosrp)
+

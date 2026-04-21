@@ -1,42 +1,22 @@
+## Python & Rust developer — aviation data
 
-## 👨‍💻 Python Developer | Data Enthusiast | Aviation Geek 📈✈️
+Senior Python developer at WINGX (part of JETNET), working on aviation business intelligence. I build and optimize data pipelines that turn raw flight and market data into insights — multi-threaded ETL, multiple SQL backends, Parquet/Arrow, and S3.
 
-Building useful tools for data analysis and visualization. I enjoy working with complex datasets and creating software that makes data more accessible and meaningful.
-Here on my free time!
+Outside of work I write small, focused tools in Python and Rust — usually CLIs, parsers, or data libraries — and occasionally [speak](https://github.com/lucianosrp/talks) at PyCon HK and local Python and Rust meetups.
 
-## 🛠️ Skills
+## Projects
 
-**Languages:**
-- Python
-- SQL 
-- Rust 
+- [**frame-check**](https://github.com/lucianosrp/frame-check) — Static checker for DataFrames. Validates schemas and column access at development time. Sprint-led at PyCon HK 2025.
+- [**open-source-aviation**](https://github.com/lucianosrp/open-source-aviation) — Curated list of open-source aviation projects and datasets.
+- [**led**](https://github.com/lucianosrp/led) — Fast, async Rust CLI for tracking shared expenses between people. Like Tricount, from your terminal.
+- [**rye-uv**](https://github.com/lucianosrp/rye-uv) — CLI tool to migrate Python projects from Rye to uv.
+- [**metar-pars**](https://github.com/lucianosrp/metar-pars) — METAR weather report parser written in Rust.
+- [**reflex-plot**](https://github.com/lucianosrp/reflex-plot) — Plot your dataframes in Reflex web apps.
 
-**Data & Backend Technologies:**
-- Data Analysis & Visualization: polars, pandas, numpy, matplotlib, seaborn
-- API Development: FastAPI, Flask
-- Database: SQLAlchemy, Alembic, PostgreSQL
-- DevOps: Docker, CI/CD, Git
+## Currently
 
-## 🚀 Projects
+Writing more Rust — CLIs, parsers, and anything where the type system and performance earn their keep. Exploring LLMs inside data analysis workflows.
 
-- [**Airport Compass** 🧭](https://github.com/lucianosrp/airport-compass) - Interactive visualization platform for analyzing global airport traffic patterns and trends
-  
-- [**reflex-plot**](https://github.com/lucianosrp/reflex-plot) - Data visualization library designed for seamless integration with Reflex web applications
-  
-- [**Metar-pars**](https://github.com/lucianosrp/metar-pars) - High-performance METAR weather report parser written in Rust *(Work in Progress)*
-  
-- [**rye-uv**](https://github.com/lucianosrp/rye-uv) - CLI utility to seamlessly migrate Python projects from Rye to Uv package management
+## Contact
 
-## 🌱 Current Focus
-
-- Deepening my knowledge of Rust for performance-critical applications
-- Exploring LLM applications in data analysis workflows
-- Learning modern backend frameworks and architecture patterns
-
-## 📫 Let's Connect
-
-- 📧 Email: [scarpulla53@gmail.com](mailto:scarpulla53@gmail.com)
-- 🌐 Portfolio: [lucianosrp.github.io](https://lucianosrp.github.io/)
-- 💼 LinkedIn: [Luciano Scarpulla](https://www.linkedin.com/in/luciano-scarpulla)
-- 🐙 GitHub: [@lucianosrp](https://github.com/lucianosrp)
-
+- LinkedIn — [Luciano Scarpulla](https://www.linkedin.com/in/luciano-scarpulla)

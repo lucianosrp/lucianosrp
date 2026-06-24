@@ -1,4 +1,4 @@
-## Python & Rust developer — aviation data
+## Python developer
 
 Senior Python developer at WINGX (part of JETNET), working on aviation business intelligence. I build and optimize data pipelines that turn raw flight and market data into insights — multi-threaded ETL, multiple SQL backends, Parquet/Arrow, and S3.
 
